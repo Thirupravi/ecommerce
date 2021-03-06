@@ -1,0 +1,15 @@
+.header_container {
+  display: flex;
+  justify-content: space-between;
+  margin: 3vw;
+}
+.header_container > h3 {
+  font-size: 2vw;
+}
+.header_container > button {
+  background-image: linear-gradient(to right, #f87755, #fa445a);
+  color: #ffff;
+  border: none;
+  width: 10vw;
+  font-size: 25px;
+}
